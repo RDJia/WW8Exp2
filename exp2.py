@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import exp1
+###nope
 import scipy.linalg
 
 class func():
